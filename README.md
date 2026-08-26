@@ -56,7 +56,6 @@ I believe the best defense is built by people who know exactly how the attack wo
 | [**Takeover.Hunter**](https://github.com/medhu0505/Takeover.Hunter) | ✅ Public | Multi-threaded subdomain takeover auditor: recursive CNAME chaining, real-time DNS triage, automated HackerOne report generation |
 | [**SignSpeak**](https://github.com/medhu0505/SignSpeak) | ✅ Public | Real-time on-device American Sign Language interpreter (MediaPipe + ONNX LSTM, fully offline) |
 | **BUGHUNTR** | 🔒 Private / WIP | Vuln-scanning platform — Flask + React. Dropping on GitHub soon |
-| **HexSecGPT** | 🔒 Private / WIP | Security-focused AI tooling |
 | **NitrOS** | 🔒 Private / WIP | Embedded / OS experimentation |
 
 > 🔗 Full list on my [repositories tab](https://github.com/medhu0505?tab=repositories). More dropping publicly soon.
