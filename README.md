@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated typing header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=medhu0505;Cybersecurity+Researcher;Bug+Bounty+Hunter;AI+%26+Hardware+Builder;Solo+Founder+%40+BUGHUNTR" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=medhu0505;Medhansh+Sharma;Cybersecurity+Researcher;Bug+Bounty+Hunter;AI+%26+Hardware+Builder" alt="Typing SVG" />
 
 <!-- Identity badges -->
 <p>
@@ -19,7 +19,7 @@
 
 ## 👋 About Me
 
-I'm a **cybersecurity researcher and bug bounty hunter** operating under the handle **StickyBugger** on HackerOne. I break things to understand them, then build the fix. My work spans:
+I'm **Medhansh Sharma** — a cybersecurity researcher and bug bounty hunter operating under the handle **StickyBugger** on HackerOne. I break things to understand them, then build the fix. My work spans:
 
 - **Offensive security** — recon, subdomain takeover, web & mobile pentest, vulnerability research
 - **AI / ML** — on-device inference, privacy-preserving models, security tooling
@@ -51,15 +51,15 @@ I believe the best defense is built by people who know exactly how the attack wo
 
 ## 🚀 Featured Projects
 
-| Project | What it does |
-|--------|--------------|
-| [**Takeover.Hunter**](https://github.com/medhu0505/Takeover.Hunter) | Multi-threaded subdomain takeover auditor: recursive CNAME chaining, real-time DNS triage, automated HackerOne report generation |
-| [**SignSpeak**](https://github.com/medhu0505/SignSpeak) | Real-time on-device American Sign Language interpreter (MediaPipe + ONNX LSTM, fully offline) |
-| [**BUGHUNTR**](https://github.com/medhu0505/BUGHUNTR) | Vuln-scanning platform — Flask + React (private / WIP) |
-| [**HexSecGPT**](https://github.com/medhu0505/HexSecGPT) | Security-focused AI tooling |
-| [**NitrOS**](https://github.com/medhu0505/NitrOS) | Embedded / OS experimentation |
+| Project | Status | What it does |
+|--------|--------|--------------|
+| [**Takeover.Hunter**](https://github.com/medhu0505/Takeover.Hunter) | ✅ Public | Multi-threaded subdomain takeover auditor: recursive CNAME chaining, real-time DNS triage, automated HackerOne report generation |
+| [**SignSpeak**](https://github.com/medhu0505/SignSpeak) | ✅ Public | Real-time on-device American Sign Language interpreter (MediaPipe + ONNX LSTM, fully offline) |
+| **BUGHUNTR** | 🔒 Private / WIP | Vuln-scanning platform — Flask + React. Dropping on GitHub soon |
+| **HexSecGPT** | 🔒 Private / WIP | Security-focused AI tooling |
+| **NitrOS** | 🔒 Private / WIP | Embedded / OS experimentation |
 
-> 🔗 Full list on my [repositories tab](https://github.com/medhu0505?tab=repositories).
+> 🔗 Full list on my [repositories tab](https://github.com/medhu0505?tab=repositories). More dropping publicly soon.
 
 ---
 
