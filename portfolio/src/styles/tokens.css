@@ -1,0 +1,36 @@
+/* Design tokens. Swapping the look of the whole site starts and mostly ends here. */
+
+:root {
+  --bg: #0b0c0e;
+  --bg-raised: #111316;
+  --surface: #15181c;
+  --surface-hover: #1b1f24;
+  --border: rgba(236, 235, 230, 0.09);
+  --border-strong: rgba(236, 235, 230, 0.18);
+  --text: #ecebe6;
+  --text-muted: rgba(236, 235, 230, 0.62);
+  --text-faint: rgba(236, 235, 230, 0.4);
+  --accent: #d4ff3a;
+  --accent-ink: #0b0c0e;
+  --accent-soft: rgba(212, 255, 58, 0.12);
+  --accent-glow: rgba(212, 255, 58, 0.35);
+
+  --font-display: 'Syne', 'Helvetica Neue', sans-serif;
+  --font-body: 'DM Sans', 'Helvetica Neue', sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, monospace;
+
+  --space-2xs: 0.25rem;
+  --space-xs: 0.5rem;
+  --space-sm: 0.75rem;
+  --space-md: 1rem;
+  --space-lg: 1.5rem;
+  --space-xl: 2.5rem;
+  --space-2xl: clamp(4rem, 9vw, 8rem);
+
+  --gutter: clamp(1rem, 4vw, 3rem);
+  --max: 1240px;
+  --radius: 14px;
+  --radius-sm: 8px;
+  --ease: cubic-bezier(0.22, 1, 0.36, 1);
+  --t: 0.3s var(--ease);
+}
